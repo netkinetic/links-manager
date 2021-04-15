@@ -1,0 +1,6 @@
+Installation Instructions
+
+1). Unzip and upload all files to your server
+2). Open the readme file in your browser using the url: 
+
+http://www.yourdomain.com/linksmanager/readme_links_manager.html
